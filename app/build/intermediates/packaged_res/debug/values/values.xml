@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#ff11071F</color>
+    <color name="primaryColor">#ffDA33FF</color>
+    <color name="surfaceColor">#ff140A23</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_add">Add</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_share">Share</string>
+    <string name="action_visit">Visit website</string>
+    <string name="app_name">BoomScrollix</string>
+    <string name="detail_author">Author</string>
+    <string name="detail_version">Version</string>
+    <string name="message_crash">Oops... Something went wrong and the app just got fucked up! Please leave us feedback on "scrollix@mrboomdev.ru"</string>
+    <string name="message_extension">Warning! Extensions can leak your data to hackers, so please, install only the trusted ones.</string>
+    <string name="message_network">Something went wrong with your internet. Please try to connect to a Wi-Fi network or wait 5 minutes.</string>
+    <string name="page_browse">Browse</string>
+    <string name="page_home">Home</string>
+    <string name="page_profile">Profile</string>
+    <string name="page_settings">Settings</string>
+    <string name="setting_cache">Cache</string>
+    <string name="setting_extensions">Extensions</string>
+    <string name="setting_language">Language</string>
+    <style name="Theme.BoomScreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/backgroundColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+		
+		<item name="colorSurface">@color/surfaceColor</item>
+		
+        <item name="colorOnSecondary">@color/white</item>
+		
+		<item name="android:statusBarColor">@color/backgroundColor</item>
+		<item name="android:navigationBarColor">@color/backgroundColor</item>
+		<item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+</resources>
