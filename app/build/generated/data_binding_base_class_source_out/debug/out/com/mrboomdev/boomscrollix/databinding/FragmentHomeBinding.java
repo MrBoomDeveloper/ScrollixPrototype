@@ -9,6 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.mrboomdev.boomscrollix.R;
@@ -21,16 +22,20 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textHome;
+  public final WebView jsEngine;
 
   @NonNull
-  public final WebView webview;
+  public final RecyclerView lenta;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textHome,
-      @NonNull WebView webview) {
+  @NonNull
+  public final TextView textHome;
+
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull WebView jsEngine,
+      @NonNull RecyclerView lenta, @NonNull TextView textHome) {
     this.rootView = rootView;
+    this.jsEngine = jsEngine;
+    this.lenta = lenta;
     this.textHome = textHome;
-    this.webview = webview;
   }
 
   @Override
@@ -60,19 +65,25 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.jsEngine;
+      WebView jsEngine = ViewBindings.findChildViewById(rootView, id);
+      if (jsEngine == null) {
+        break missingId;
+      }
+
+      id = R.id.lenta;
+      RecyclerView lenta = ViewBindings.findChildViewById(rootView, id);
+      if (lenta == null) {
+        break missingId;
+      }
+
       id = R.id.text_home;
       TextView textHome = ViewBindings.findChildViewById(rootView, id);
       if (textHome == null) {
         break missingId;
       }
 
-      id = R.id.webview;
-      WebView webview = ViewBindings.findChildViewById(rootView, id);
-      if (webview == null) {
-        break missingId;
-      }
-
-      return new FragmentHomeBinding((ConstraintLayout) rootView, textHome, webview);
+      return new FragmentHomeBinding((ConstraintLayout) rootView, jsEngine, lenta, textHome);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

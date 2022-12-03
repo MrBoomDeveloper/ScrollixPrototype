@@ -2502,12 +2502,12 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_app_logo
 drawable ic_browse_round
 drawable ic_clock_black_24dp
 drawable ic_home_round
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
-drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -2643,6 +2643,8 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
+id appbar
+id appbar_holder
 id arc
 id asConfigured
 id async
@@ -2800,6 +2802,7 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id jsEngine
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2807,6 +2810,7 @@ id layout
 id left
 id leftToRight
 id legacy
+id lenta
 id line1
 id line3
 id linear
@@ -2837,6 +2841,9 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menu_item1
+id menu_item2
+id menu_item3
 id message
 id middle
 id mini
@@ -3061,7 +3068,6 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
-id webview
 id west
 id withText
 id withinBounds
@@ -3262,8 +3268,8 @@ layout text_view_without_line_height
 menu bottom_nav_menu
 menu example_menu
 menu example_menu2
+menu main_topbar
 mipmap ic_launcher
-mipmap ic_launcher_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
@@ -3294,6 +3300,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_add
+string action_disable
+string action_enable
 string action_remove
 string action_share
 string action_visit
@@ -3307,6 +3315,10 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string debug_beta
+string debug_extensions_path
+string debug_stacktrace
+string debug_warning
 string detail_author
 string detail_version
 string error_icon_content_description
@@ -3353,8 +3365,9 @@ string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
 string message_crash
-string message_extension
-string message_network
+string message_extension_failed
+string message_extension_warning
+string message_no_internet
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description
@@ -3407,6 +3420,9 @@ string setting_cache
 string setting_extensions
 string setting_language
 string status_bar_notification_info_overflow
+string title_error
+string title_no_internet
+string title_warning
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

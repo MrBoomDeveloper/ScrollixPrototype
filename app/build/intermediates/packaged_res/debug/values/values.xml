@@ -7,15 +7,22 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_add">Add</string>
+    <string name="action_disable">Disable</string>
+    <string name="action_enable">Enable</string>
     <string name="action_remove">Remove</string>
     <string name="action_share">Share</string>
     <string name="action_visit">Visit website</string>
     <string name="app_name">BoomScrollix</string>
+    <string name="debug_beta">Activate Beta Features</string>
+    <string name="debug_extensions_path">Extensions directory</string>
+    <string name="debug_stacktrace">Stacktrace</string>
+    <string name="debug_warning">Данные опции могут нанести вред данным приложения! Используйте их только если вы знаете, что делаете.</string>
     <string name="detail_author">Author</string>
     <string name="detail_version">Version</string>
     <string name="message_crash">Oops... Something went wrong and the app just got fucked up! Please leave us feedback on "scrollix@mrboomdev.ru"</string>
-    <string name="message_extension">Warning! Extensions can leak your data to hackers, so please, install only the trusted ones.</string>
-    <string name="message_network">Something went wrong with your internet. Please try to connect to a Wi-Fi network or wait 5 minutes.</string>
+    <string name="message_extension_failed">Не удалось загрузить данные расширения. Попробуйте установить его заново или свяжитесь с его разработчиком.</string>
+    <string name="message_extension_warning">Warning! Extensions can leak your data to hackers, so please, install only the trusted ones.</string>
+    <string name="message_no_internet">Попробуйте подключиться к сети Wi-Fi. Если проблема не решиться, свяжитесь с нами по почте "scrollix@mrboomdev.ru"</string>
     <string name="page_browse">Browse</string>
     <string name="page_home">Home</string>
     <string name="page_profile">Profile</string>
@@ -23,6 +30,9 @@
     <string name="setting_cache">Cache</string>
     <string name="setting_extensions">Extensions</string>
     <string name="setting_language">Language</string>
+    <string name="title_error">An error has occured!</string>
+    <string name="title_no_internet">Не удалось подключиться к интернету!</string>
+    <string name="title_warning">Warning!</string>
     <style name="Theme.BoomScreen" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryVariant">@color/backgroundColor</item>

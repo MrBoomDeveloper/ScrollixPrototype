@@ -1,15 +1,27 @@
 [
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
         "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable_ic_settings_round.xml.flat",
         "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/drawable/ic_settings_round.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/layout_fragment_profile.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/menu_main_topbar.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/menu/main_topbar.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap_ic_launcher.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/navigation_mobile_navigation.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/layout/activity_main.xml"
     },
     {
         "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable_ic_profile_round.xml.flat",
@@ -24,64 +36,16 @@
         "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable_ic_home_round.xml.flat",
         "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/drawable/ic_home_round.xml"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/layout_fragment_profile.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/layout/fragment_profile.xml"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/navigation_mobile_navigation.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/navigation/mobile_navigation.xml"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/layout_activity_main.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/layout/activity_main.xml"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
         "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
         "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-v26_ic_launcher.xml.flat",
+        "source": "com.mrboomdev.boomscrollix.app-main-34:/mipmap-v26/ic_launcher.xml"
     },
     {
         "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/layout_fragment_home.xml.flat",
@@ -92,12 +56,12 @@
         "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/layout/fragment_notifications.xml"
     },
     {
-        "merged": "com.mrboomdev.boomscrollix.app-merged_res-32:/layout_fragment_profile.xml.flat",
-        "source": "com.mrboomdev.boomscrollix.app-main-34:/layout/fragment_profile.xml"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-v26_ic_launcher.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-v26/ic_launcher.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable_ic_app_logo.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-main-34:/drawable/ic_app_logo.png"
     },
     {
         "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.mrboomdev.boomscrollix.app-merged_res-32:/drawable_ic_browse_round.xml.flat",
