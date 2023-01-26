@@ -12,7 +12,7 @@
     <string name="action_remove">Remove</string>
     <string name="action_share">Share</string>
     <string name="action_visit">Visit website</string>
-    <string name="app_name">BoomScrollix</string>
+    <string name="app_name">Scrollix</string>
     <string name="debug_beta">Activate Beta Features</string>
     <string name="debug_extensions_path">Extensions directory</string>
     <string name="debug_stacktrace">Stacktrace</string>
